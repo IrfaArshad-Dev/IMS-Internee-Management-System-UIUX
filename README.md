@@ -208,7 +208,7 @@ This was a collaborative internship project built by:
 ## 📬 Contact
 
 **Irfa Arshad**
-🔗 [GitHub](https://github.com/IrfaArshad-Dev) · 💼 LinkedIn *(add your link here)*
+🔗 [GitHub](https://github.com/IrfaArshad-Dev) · 💼 LinkedIn *(https://www.linkedin.com/in/irfa-arshad-833a77421/)*
 
 ---
 
